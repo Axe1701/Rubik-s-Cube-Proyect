@@ -1,1 +1,36 @@
-# Rubik-s-Cube-Proyect
+# Rubik-s-Cube-Proyect 
+
+Cubo Rubik realizado con OpenGL para el curso de Computación Grafica (CS251)
+
+## Funcionalidades 📦
+
+| Movimiento | Letra Asociada |
+| ------------- | ------------- |
+| F  | F |
+| F | G |
+| R  | R |
+| R  | T |
+| U  | U |
+| U  | I |
+| B  | B |
+| B  | N |
+| L  | L |
+| L  | K |
+| D  | D |
+| D  | S |
+| SCRAMBLE  | Z |
+| SOLVE  | X |
+| Acercar Camara   | up |
+| Alejar Camara  | DOWN |
+| Camara a la Izquierda  | LEFT |
+| Camara a la Derecha  | RIGHT |
+| Cambiar Posición Camara  | MOUSE |
+
+## Solver 📖
+
+El solver que hemos utilizado en este proyecto es la versión realizada en C por [muodov](https://github.com/muodov/kociemba).
+
+## Autores ✒️
+
+* **Dennis Marcell Sumiri Fernandez** - [llecram](https://github.com/llecram)
+* **José Miguel Guzmán Chauca** - [Axe1701](https://github.com/Axe1701)
