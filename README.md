@@ -1,6 +1,6 @@
 # Rubik-s-Cube-Proyect 
 
-Cubo Rubik realizado con OpenGL para el curso de Computación Grafica (CS251)
+Cubo Rubik realizado con OpenGL con solver integrado y distintas animaciones para el curso de Computación Grafica (CS251)
 
 ## Funcionalidades 📦
 
