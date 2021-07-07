@@ -20,7 +20,7 @@ Cubo Rubik realizado con OpenGL en C y C++ con solver integrado y distintas anim
 | D  | S |
 | SCRAMBLE  | Z |
 | SOLVE  | X |
-| Acercar Camara   | up |
+| Acercar Camara   | UP |
 | Alejar Camara  | DOWN |
 | Camara a la Izquierda  | LEFT |
 | Camara a la Derecha  | RIGHT |
