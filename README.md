@@ -30,6 +30,9 @@ Cubo Rubik realizado con OpenGL para el curso de Computación Grafica (CS251)
 
 El solver que hemos utilizado en este proyecto es la versión realizada en C por [muodov](https://github.com/muodov/kociemba).
 
+## Resultados
+![Alt text](https://github.com/Axe1701/Rubik-s-Cube-Proyect/blob/master/Demo%20Cubo%20Rubik.mp4)
+
 ## Autores ✒️
 
 * **Dennis Marcell Sumiri Fernandez** - [llecram](https://github.com/llecram)
